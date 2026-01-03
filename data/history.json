@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2026-01-04T01:54:13.909622",
+        "action_type": "PROFILE_UPDATE",
+        "details": "Updated details for Vigneshvar"
+    },
+    {
+        "timestamp": "2026-01-04T01:54:50.005786",
+        "action_type": "PROFILE_UPDATE",
+        "details": "Updated details for Vigneshvar"
+    },
+    {
+        "timestamp": "2026-01-04T01:56:35.023746",
+        "action_type": "FOOD_LOG",
+        "details": "Ate Idly (300 kcal)"
+    },
+    {
+        "timestamp": "2026-01-04T01:56:52.424510",
+        "action_type": "WORKOUT_LOG",
+        "details": "Completed workout"
+    },
+    {
+        "timestamp": "2026-01-04T01:56:53.077595",
+        "action_type": "WORKOUT_LOG",
+        "details": "Undo workout"
+    },
+    {
+        "timestamp": "2026-01-04T01:57:19.474967",
+        "action_type": "TASK_ADD",
+        "details": "Added task: One Leetcode (Daily Goal)"
+    }
+]

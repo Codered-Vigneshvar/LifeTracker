@@ -1,0 +1,13 @@
+[
+    {
+        "date": "2026-01-04",
+        "food_entries": [
+            {
+                "name": "Idly",
+                "calories": 300
+            }
+        ],
+        "workout_completed": false,
+        "weight_log": null
+    }
+]
